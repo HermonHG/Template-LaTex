@@ -1,8 +1,8 @@
 # Template-LaTex
-Vereinfachtes Template für Zusammenfassungen mit Kommentare. Gedacht für: [LaTex Kurs]https://github.com/HSR-Stud/LaTex-Kurs, sowie Einsteiger.
+Vereinfachtes Template für Zusammenfassungen mit Kommentare. Gedacht für: [LaTex Kurs](https://github.com/HSR-Stud/LaTex-Kurs), sowie Einsteiger.
 
 Fortgeschrittene, die ein neues Repository auf HSR-Stud erstellen wollen, benützen doch bitte:
-[Vorlage LaTex]https://github.com/HSR-Stud/VorlageZFLaTex
+[Vorlage LaTex](https://github.com/HSR-Stud/VorlageZFLaTex)
 
 ### Licence 
 CC BY-NC-SA 3.0 
