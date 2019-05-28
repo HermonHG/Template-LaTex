@@ -1,6 +1,10 @@
-%Darstellung Dokument
+%Darstellung Dokument =========================================================================================
+
 \documentclass[10pt,twoside,a4paper,fleqn]{article}			%\documentclass[Optionen]{Dokumentklasse} => [Schriftgrösse, Layout, Papierformat, Gleichungen Linksbündig]{Art des Dokuments}
 \usepackage[left=5mm,right=5mm,top=5mm,bottom=2.5mm,includeheadfoot]{geometry}	%Seitenränder festlegen
+
+
+%wichtige Standard-Packages ===================================================================================
 
 %Darstellung Text
 \usepackage[utf8]{inputenc}		%LaTeX arbeitet standardmässig mit der "normalen" ASCII Codierung. Um Sonderzeichen verwenden zu können, muss deshalb explizit die UTF-8 Codierung eingestellt werden. Dazu wird das inputenc Package benötigt.
@@ -46,13 +50,13 @@
 
 
 
-
-
+% Zusätzliche Einstellungen =============================================================================
 
 \raggedright			% \raggedright removes paragraph indentation
 
 
-%pdf info
+%PDF Infos =============================================================================================
+
 \hypersetup{pdfauthor={\authorinfo},pdftitle={\titleinfo},colorlinks=false} %linkbordercolor=white
 \author{\authorinfo}
 \title{\titleinfo}
